@@ -17,7 +17,7 @@ body{
 
 /* header */
 header {
-  background-image: url(todosmemes.jpg);
+  background-image: url(imagem1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -103,8 +103,8 @@ header a {
 .imagem-destaques {
   border-radius: 50%;
   object-fit: cover;
-  width: 280px;
-  height: 280px;
+  width: 260px;
+  height: 260px;
 }
 .paragrafo-destaques{
   font-size: 30px;
@@ -164,12 +164,12 @@ header a {
   }
 }
 .imagem-apresentacao {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 @media (min-width: 1024px) {
   .imagem-apresentacao {
     object-fit: contain;
-    width: 40%;
+    width: 30%;
   }
 }
 
@@ -177,7 +177,7 @@ header a {
 .secao-faixa {
   padding: 10vh 0;
   text-align: center;
-  background-color: #999
+  background-color: #CD853F;
 }
 
 .faixa-titulo {
@@ -188,7 +188,7 @@ header a {
 }
 
 .secao-contato {
-  background-color: #999;
+  background-color: #CD853F;
   padding: 20px;
   color: #fff;
 }
